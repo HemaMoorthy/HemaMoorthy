@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **OOPS**
+- 💬 Ask me about **OOPS,DBMS**
 
 - 📫 How to reach me **hemamoorthy8@gmail.com**
 
